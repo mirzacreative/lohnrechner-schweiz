@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LohnRechner Schweiz Logo">
+  <rect width="64" height="64" rx="14" fill="#DA291C"/>
+  <path d="M6 44 L22 16 L31 30 L37 22 L58 44 Z" fill="#ffffff"/>
+  <path d="M22 16 L26 22 L22 27 L18 22 Z" fill="#DA291C" opacity="0.85"/>
+  <rect x="6" y="44" width="52" height="5" rx="2.5" fill="#ffffff"/>
+  <circle cx="47" cy="15" r="6" fill="#ffffff" opacity="0.9"/>
+</svg>

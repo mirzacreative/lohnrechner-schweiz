@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 52" role="img" aria-label="LohnRechner Schweiz">
+  <rect x="2" y="4" width="44" height="44" rx="11" fill="#DA291C"/>
+  <path d="M8 36 L20 14 L27 25 L31 19 L44 36 Z" fill="#ffffff"/>
+  <rect x="8" y="36" width="36" height="4" rx="2" fill="#ffffff"/>
+  <text x="54" y="24" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="17" font-weight="800" fill="#16202e">LohnRechner</text>
+  <text x="54" y="41" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#5b6b82">Schweiz 2026</text>
+</svg>
